@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&display=swap');
+
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input {
+    margin: 0;
+    padding: 13px 0px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+    width: 291px;
+}
